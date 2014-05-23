@@ -1,0 +1,23 @@
+commit 2780dd7df34c1f9b6edba58464771a817a971cfe
+Author: Maychell Fernandes de Oliveira <maychell@lcc.ufrn.br>
+Date:   Fri May 23 10:52:23 2014 -0300
+
+    Fazendo a comunicação do cliente com o servidor.
+
+commit 008c647205f84f67a3346ae15b7eb939b4509f8c
+Author: Maychell Fernandes de Oliveira <maychell@lcc.ufrn.br>
+Date:   Fri May 23 10:48:50 2014 -0300
+
+    Preparando a estrutura para interação entre o cliente e servidor. Resolvendo issue #3
+
+commit 7e02257cfcab98b9a42442b2d1de565fe6d3da10
+Author: Maychell Fernandes de Oliveira <maychell@lcc.ufrn.br>
+Date:   Fri May 23 10:44:27 2014 -0300
+
+    Deixando a interface gráfica interativa com o cliente. Resolvendo issue #2
+
+commit 20c9ee68fe149d3892e50faf436508766429fc31
+Author: Maychell Fernandes de Oliveira <maychell@lcc.ufrn.br>
+Date:   Fri May 23 10:29:38 2014 -0300
+
+    Criando interace gráfica para aplicação. Resolvendo issue #1
